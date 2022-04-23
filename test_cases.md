@@ -108,3 +108,16 @@ I always include a "tag" or "label" to indicate Severity (not priority, this is 
 - Major
 - Minor
 - Trivial
+
+#### Code bug:
+- Account setting > data-cy contains a white space
+- Pre-conditions:
+	- Logged in Genially
+- Current result:
+	data-cy html attribute value is "My profile".
+- Expected result:
+	data-cy must not contains white spaces.
+- Possible fixes:
+	Edit this html attribute: data-dy=myProfile
+
+
