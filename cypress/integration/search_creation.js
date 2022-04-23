@@ -1,5 +1,3 @@
-
-
 describe('TC4 - Search creation', () => {
     before(() => {
         cy.login('walok68086@svcache.com', 'cypress-test')
