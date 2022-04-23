@@ -34,22 +34,20 @@
 | Select a palette and click "Use this template"| Select page(s) view is displayed |
 | Click "Add" | Editor view is displayed and selected template is uploaded |
 
-### TC3 -Edit a Genially
+### TC3 - Account settings
 - Type: regression
 - Priority: high
 - Browser and Operative System: Chrome and Firefox - macOC Monterey
 - Pre-conditions: 
 	- Logged in Genially
-	- Have a Genially draft created
-- Description: Edit a Genially
+- Description: Navigate to user profile
 - Steps:
 
 |STEP |RESULT|
 |-----|--------|
 |Navigate to Dashboard | Dashboard view is displayed |
-| Click in created draft | Draft is uploaded |
-| Click "Add page", select a kind of page and click "Add" | Selected page is added and displayed in draft |
-| Navigate to any page, click delete icon and "Delete" button | Page is removed from draft | 
+| Click user profile icon | User profile is displayed |
+| Click "Account settings" | Account settings are displayed |
 
 
 ### TC4 - Search for creations

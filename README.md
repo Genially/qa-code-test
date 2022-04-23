@@ -14,5 +14,5 @@ git clone <url>
 npm install
 ```
 ```
-./node_modules/.bin/cypress open
+npm run cy:run
 ```
