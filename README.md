@@ -8,7 +8,7 @@ Cypress
 
 ## Getting Started
 ```
-git clone <url>
+git clone https://github.com/anapareciendo/qa-code-test.git
 ```
 ```
 npm install
