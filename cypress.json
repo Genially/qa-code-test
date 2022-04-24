@@ -1,4 +1,12 @@
 {
+  "baseUrl": "https://auth.genial.ly",
+  "testFiles":[
+    "login.js",
+    "create_genially.js",
+    "account_settings.js",
+    "search_creation.js",
+    "logout.js"
+  ],
   "viewportWidth": 1100,
   "viewportHeight": 660
 }

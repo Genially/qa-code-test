@@ -11,7 +11,7 @@
 //
 // -- This is a parent command --
 Cypress.Commands.add('login', (email, password) => {
-    cy.visit('https://auth.genial.ly/login')
+    cy.visit('/login')
     cy.get('.ot-sdk-row').click()
     cy.get('#onetrust-accept-btn-handler').click()
     cy.get('[data-cy=loginEmailInput]').type(email)

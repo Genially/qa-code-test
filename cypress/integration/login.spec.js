@@ -1,6 +1,6 @@
 describe('TC1 - Login', () => {
     it('Navigate to Genially', () =>{
-        cy.visit('https://genial.ly')
+        cy.visit('/')
         cy.get('[data-cy=geniallyLogoTopBar]')
         cy.get('.ot-sdk-row').click()
         cy.get('#onetrust-accept-btn-handler').click()
